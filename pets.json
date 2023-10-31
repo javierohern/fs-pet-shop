@@ -1,1 +1,22 @@
-[{"age":7,"kind":"dog","name":"fido"},{"age":3,"kind":"parakeet","name":"Conrflake"}]
+[
+  {
+    "age": 7,
+    "kind": "dog",
+    "name": "fido"
+  },
+  {
+    "age": 3,
+    "kind": "parakeet",
+    "name": "Conrflake"
+  },
+  {
+    "age": 5,
+    "kind": "cat",
+    "name": "Whiskers"
+  },
+  {
+    "name": "Cornflake",
+    "age": 3,
+    "kind": "parakeet"
+  }
+]
